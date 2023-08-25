@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'IT-аутсорсинг | itout.one'
+meta_title: 'IT-аутсорсинг - itout.one'
 description: "itout – это, современный IT-аутсорсинг, для малого и среднего бизнеса."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
