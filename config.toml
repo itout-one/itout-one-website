@@ -3,7 +3,7 @@ publishDir = "docs"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "itout.one"
 
 [module]
   [module.hugoVersion]
