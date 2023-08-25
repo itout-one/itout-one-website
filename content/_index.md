@@ -1,12 +1,12 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: 'IT-аутсорсинг | itout.one''
+description: "itout – это, современный IT-аутсорсинг, для малого и среднего бизнеса."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Не думайте об IT - займитесь бизнесом.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+itout – это, современный IT-аутсорсинг, для малого и среднего бизнеса.
