@@ -93,13 +93,13 @@ title = "itout.one"
     weight = 3
 
   [[menu.footer]]
-    name = "Сайт"
-    url = "/222/"
+    name = "Вакансии"
+    url = "/111/"
     weight = 4
 
   [[menu.footer]]
-    name = "Вакансии"
-    url = "/111/"
+    name = "Сайт"
+    url = "/222/"
     weight = 5
 
   [[menu.footer]]
