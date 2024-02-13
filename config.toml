@@ -1,5 +1,4 @@
 baseURL = "/"
-publishDir = "./public"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
