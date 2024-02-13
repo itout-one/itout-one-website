@@ -1,5 +1,5 @@
 baseURL = "https://www.itout.one/"
-publishDir = "docs"
+publishDir = "public"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
