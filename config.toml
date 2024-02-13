@@ -10,7 +10,7 @@ title = "itout.one"
     min = "0.55.0"
 
 [sitemap]
-  changeFreq = 'always'
+  changeFreq = 'monthly'
   filename = 'sitemap.xml'
   priority = -1
 
