@@ -1,8 +1,10 @@
-baseURL = "/"
+baseURL = "https://www.itout.one/"
+publishDir = "public"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "Hugo Serif Theme"
+
 
 [module]
   [module.hugoVersion]
