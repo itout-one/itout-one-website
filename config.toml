@@ -3,6 +3,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "ru"
 title = "itout.one"
+enableRobotsTXT = true
 
 [module]
   [module.hugoVersion]
