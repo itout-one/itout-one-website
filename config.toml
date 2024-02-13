@@ -57,7 +57,7 @@ enableRobotsTXT = true
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = '<a class="zerostatic" href="https://www.itout.one/">www.itout.one</a> © {{ $t.Year }}<br />Email: <a class="zerostatic" href="mailto:hello@itout.one">hello@itout.one</a>'
+    copyright_text = '<a class="zerostatic" href="https://www.itout.one/">www.itout.one</a> © <script>document.write(new Date().getFullYear());</script><br />Email: <a class="zerostatic" href="mailto:hello@itout.one">hello@itout.one</a>'
 
 [menu]
   # Main Menu
