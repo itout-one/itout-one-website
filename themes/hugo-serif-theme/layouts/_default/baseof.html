@@ -54,30 +54,9 @@
     {{ $scripts = $scripts | minify | fingerprint }}
   {{ end }}
   <script type="text/javascript" src="{{ $scripts.RelPermalink }}"></script>
-  <script>(function(a,m,o,c,r,m){a[m]={id:"392671",hash:"ebdbf2250116a16a9b6c45b8d4d3a0c5e54f405e41394104a86b074ee1a01fb2",locale:"ru",inline:false,setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js?1693068059';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,0,'amo_social_button'));</script>
-
-  <!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-  m[i].l=1*new Date();
-  for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-  k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-  (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
-
-  ym(94785994, "init", {
-       clickmap:true,
-       trackLinks:true,
-       accurateTrackBounce:true,
-       webvisor:true,
-       trackHash:true
-  });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/94785994" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
-  
 </body>
 
 </html>
