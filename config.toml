@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-languageCode = "ru-RU"
+languageCode = "ru"
 title = "itout.one"
 
 [module]
