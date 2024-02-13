@@ -1,4 +1,4 @@
-baseURL = "https://www.itout.one/"
+baseURL = "/"
 publishDir = "public"
 themesDir = "themes"
 theme = "hugo-serif-theme"
