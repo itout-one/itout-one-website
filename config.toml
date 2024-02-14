@@ -30,7 +30,7 @@ enableRobotsTXT = true
     mobile_height = "70px"
     desktop = "images/logo/logo.svg"
     desktop_height = "45px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "IT-аутсорсинг - itout.one"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
