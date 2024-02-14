@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/1.png"
+    "title": "Онлайн 24/7",
+    "description": "Круглосуточное техническое обслуживание, любым удобным или доступным для вас методом.",
+    "image": "images/features/111.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/2.png"
+    "title": "Эффективность",
+    "description": "Исходя из профессионального опыта команды, на 99% запросов есть рабочее решение.",
+    "image": "images/features/222.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/3.png"
+    "title": "Про Бизнес",
+    "description": "Сконцентрируйтесь на целях бизнеса, а подвисшие и бесконечные задачи IT мы берем на себя.",
+    "image": "images/features/333.svg"
   }
 ]
