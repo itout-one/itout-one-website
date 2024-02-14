@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'IT-аутсорсинг - itout.one'
+meta_title: 'IT-аутсорсинг | itout.one'
 description: "itout – это, современный IT-аутсорсинг, для малого и среднего бизнеса."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
