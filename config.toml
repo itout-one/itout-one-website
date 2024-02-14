@@ -28,7 +28,7 @@ enableRobotsTXT = true
   [params.logo]
     mobile = "images/logo/logo_mobile.svg"
     mobile_height = "70px"
-    desktop = "images/logo/logo0.svg"
+    desktop = "images/logo/logo.svg"
     desktop_height = "45px"
     alt = "Serif - A Hugo Business Theme"
 

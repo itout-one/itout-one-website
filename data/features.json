@@ -2,16 +2,16 @@
   {
     "title": "Онлайн 24/7",
     "description": "Круглосуточное техническое обслуживание, любым удобным или доступным для вас методом.",
-    "image": "images/features/111.svg"
+    "image": "images/features/online.svg"
   },
   {
     "title": "Эффективность",
     "description": "Исходя из профессионального опыта команды, на 99% запросов есть рабочее решение.",
-    "image": "images/features/222.svg"
+    "image": "images/features/effectiveness.svg"
   },
   {
     "title": "Про Бизнес",
     "description": "Сконцентрируйтесь на целях бизнеса, а подвисшие и бесконечные задачи IT мы берем на себя.",
-    "image": "images/features/333.svg"
+    "image": "images/features/business.svg"
   }
 ]
