@@ -27,9 +27,9 @@ enableRobotsTXT = true
 
   [params.logo]
     mobile = "images/logo/logo_mobile.svg"
-    mobile_height = "70px"
+    mobile_height = "65px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "45px"
+    desktop_height = "40px"
     alt = "IT-аутсорсинг - itout.one"
 
   [params.fonts]
