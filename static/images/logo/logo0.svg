@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 507.41 158.37">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #1d1d1b;
+      }
+
+      .cls-4 {
+        font-family: Finlandica-Regular, Finlandica;
+        font-size: 135.13px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: #3664ad;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(0 114.86)"><tspan class="cls-3" x="0" y="0">i</tspan><tspan class="cls-1" x="38.51" y="0">t</tspan><tspan class="cls-3" x="83.1" y="0">out</tspan><tspan class="cls-2" x="269.18" y="0">.</tspan><tspan class="cls-5" x="300.93" y="0">one</tspan></text>
+</svg>
