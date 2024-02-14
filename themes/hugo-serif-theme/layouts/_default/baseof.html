@@ -76,7 +76,7 @@
 
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
-  {{ partial "crm-plugin.html" . }}
+  {{ partial "crm-plugin.html" . | safeHTML }}
 </body>
 
 </html>
