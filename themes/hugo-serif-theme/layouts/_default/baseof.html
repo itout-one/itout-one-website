@@ -8,6 +8,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="{{ .Site.Params.favicon | relURL }}">
 
+  {{ partial "yandex-metrika.html" . }}
+  
   {{ partial "google-fonts.html" . }}
 
   <!-- CSS-->
@@ -57,7 +59,6 @@
 
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
-  {{ partial "yandex-metrika.html" . }}
   
 </body>
 
