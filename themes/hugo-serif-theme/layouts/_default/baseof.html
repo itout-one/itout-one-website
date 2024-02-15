@@ -51,6 +51,10 @@
 
   {{ $scripts := resources.Get "js/scripts.js" }}
 
+  <!-- AmoCrm - Plugin counter -->
+  {{ partial "amocrm-plugin.html" . }}
+  <!-- /AmoCrm - Plugin counter -->
+
   {{ block "footer_js" . }}
   {{ end }}
 
@@ -61,10 +65,6 @@
 
   {{ partial "google-tag-manager.html" . }}
   {{ partial "google-analytics.html" . }}
-
-  <!-- AmoCrm - Plugin counter -->
-  {{ partial "amocrm-plugin.html" . }}
-  <!-- /AmoCrm - Plugin counter -->
   
 </body>
 
