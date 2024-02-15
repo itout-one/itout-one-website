@@ -63,7 +63,7 @@
   {{ partial "google-analytics.html" . }}
 
   <!-- AmoCrm - Plugin counter -->
-  {{ partial "amocrm-plugin.html" . }}
+  {{ partial "amocrm-plugin.html" . | safeJS }}
   <!-- /AmoCrm - Plugin counter -->
   
 </body>
