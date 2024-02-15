@@ -8,6 +8,6 @@ intro_image_absolute_offset: "auto auto -240px -140px" # used to tweak the posit
 intro_image_hide_on_mobile: true
 ---
 
-# Не думайте об IT - займитесь бизнесом.
+# Не думайте об IT - Занимайтесь бизнесом.
 
 itout – это, современный IT-аутсорсинг, для малого и среднего бизнеса.
