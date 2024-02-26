@@ -12,6 +12,8 @@
   </div>
 </div>
 
+<div class="content mt-4">{{.Content}}</div>
+
 <div class="container">
   <div class="row">
     {{ range where .Pages.ByWeight ".Params.promoted" true }}
