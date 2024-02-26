@@ -1,7 +1,6 @@
 ---
 title: 'О Нас'
 description: 'We offer a range of services to help your business'
-testov: 'test test test test.'
 intro_image: "images/illustrations/about-illustrations.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
