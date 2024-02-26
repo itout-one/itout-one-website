@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: 'О Нас'
 description: 'We offer a range of services to help your business'
 intro_image: "images/illustrations/about-illustrations.svg"
 intro_image_absolute: true
